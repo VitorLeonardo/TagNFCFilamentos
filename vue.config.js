@@ -2,5 +2,5 @@ const { defineConfig } = require('@vue/cli-service')
 module.exports = defineConfig({
   transpileDependencies: true,
   plugins: [vue()],
-  base: '/',
+  base: '/TagNFCFilamentos/',
 })
